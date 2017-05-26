@@ -1,0 +1,7 @@
+/target/
+/bin/
+.text
+.classpath
+.project
+.settings
+.projects
